@@ -1,5 +1,8 @@
 # Seongsu-dong commercial district analysis
-Con.Point 2021-2 mini Team project
 
-programming language: R
-tool: R Studio
+### Summary
+* Con.Point 2021-2 Team project
+<br>
+
+#### Language: R
+#### Tool: R Studio
